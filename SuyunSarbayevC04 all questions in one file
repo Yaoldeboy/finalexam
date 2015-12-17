@@ -1,0 +1,53 @@
+1) What about System Programming course?
+a) System programming is the practice of writing system software
+b) Course about leraning how linux works
+c) Course to learn how to optimaze programms for operating system 
+d) Learning about the essentuals of programming language  in operating systems
+
+2) Zombie process is?
+a) is a process that has completed execution (via the exit system call) but still has an entry in the process table
+b) is a process, which turns dead body into the walking dead
+c)  The process is either running (it is the current process in the system) or it is ready to run (it is waiting to be assigned to one of the system's CPUs).
+d) The process has been stopped, usually by receiving a signal. A process that is being debugged can be in a stopped state.
+
+3)What is interval REAL timer 
+a) the timer ticks in real time, and when the timer has expired, the process is sent a SIGALRM signal.
+b)This timer only ticks when the process is running and when it expires it sends a SIGVTALRM signal.
+c)This timer ticks both when the process is running and when the system is executing on behalf of the process itself. SIGPROF is signalled when it expires.
+d)Timer that contains the time until the timer next expires and a signal is sent. If this is 0, the timer is disabled.
+
+4)What is script in linux ?
+a) script is a sequence of commands for which you have a repeated use. 
+b) is how a program requests a service from an operating system's kernel
+c) the child function of a program
+d) A plan of action aimed at accomplishing a clear business objective
+
+5)What is sudo in linux 
+a) Is a utility that provides root privileges to perform administrative operations in accordance with its own settings 
+b) Is a utility that provides privileges to perform guest operations 
+c) Utility that provides a privileges to perform only view of all system files
+d) Provides provides a privileges to perform only create and write of all system files
+
+6)Which command is list all file information in current directory in long version
+a)ls-l
+b)ls
+c)ls-R
+d)ls-lt
+
+7)Which of the commands below will move you to the root directory
+a)cd /
+b)cd
+c)cd /etc
+d)cd ../
+
+8)What is "Clone" 
+a)"clone" is a system call in the Linux kernel that creates a child process that may share parts of its execution context with the parent.
+b) is an operation whereby a process creates a copy of itself. It is usually a system call, implemented in the kernel.
+c)  is a computer program designed to be run by the Unix shell, a command line interpreter.
+d) is an operation whereby a process createss a copy of itself and works in background
+
+9)Who is creators of UNIX
+a) Ken Thompson and Dennis Ritchie
+b) Larry Page and Sergey Brin
+c)  Kevin Systrom and Mike Krieger
+d) Trey Parker and Matt Stone
